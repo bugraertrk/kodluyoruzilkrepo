@@ -6,3 +6,13 @@ Kodluyoruz Başlangıç Seviye PHP ile Backend Web Development Patikası Eğitim
 
 <h1>  Installation  </h1>
 gh repo clone bugraertrk/kodluyoruzilkrepo
+
+<h1> Usage </h1>
+cd kodluyoruzilkrepo
+code .
+
+<h1> Contributing </h1>
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+<h1>License </h1>
+MIT
